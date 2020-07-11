@@ -1,0 +1,17 @@
+{
+    "Baklava":{
+    "calori":1500,
+    "price":50.0,
+    "chef":"Ayse Turk"
+    },
+    "Kadayif":{
+    "calori":1000,
+    "price":35.0,
+    "chef":"Tugba Kursun"
+    },
+    "Sutlac":{
+    "calori":500,
+    "price":25.0,
+    "chef":"Husniye Imamoglu"
+    }
+    }
